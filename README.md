@@ -1,3 +1,1 @@
-# Stargate
-
-Richard Din Anderson
+Stargate
